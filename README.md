@@ -15,3 +15,4 @@ Tela de informes de rendimento bancários:
 Tela de notas bancárias ou extrato de holerites:
 ![Captura de tela 2025-06-02 222232](https://github.com/user-attachments/assets/7fd2053c-2e10-4896-82a6-5b2a00c9338d)
 
+*Download da planilha disponível aqui:* https://github.com/KunglaoGaucho/Declaracao-Imposto-de-Renda/blob/main/imposto_de_renda.xlsx
